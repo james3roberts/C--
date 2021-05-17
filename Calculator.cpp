@@ -35,13 +35,10 @@ int  main() // Changed void to int to be able to get numbers.
 
 			cout << "Do you wish to evaluate another expression? " << endl; //Ask if they want another problem.
 			cin >> answer; // save the answer.
-
-            if (answer =='n' || answer =='N')
-		    cout <<"Program Finished" << endl;// Time to stop.
             
          }
          
 
-        
+    cout << "Program Finished" << endl;    
     return 0;  // Added the return statement. 2
 }
