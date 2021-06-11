@@ -5,9 +5,10 @@ using namespace std;
 int main(){
     while(true){
         int num;
+        
         cout <<"Display a multiplication table press 1. "<<endl;
         cout << "Double a value press 2."<< endl;
-        cout << "Exit press 3. ";
+        cout << "Exit press 3. "<<endl;
         cin >> num;
         if (num == 1 ){
             cout <<"Call python multiplication funciton here";//Change to name of python function
