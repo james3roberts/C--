@@ -1,4 +1,4 @@
-# C--
+# C++
 This is homework for a programmin class in C++ that will intergrate python and Jave. 
 I decided to upload everything in the off chance someone needs help.
 I am using the zybook CS20 Programming Languages.
